@@ -1,0 +1,7 @@
+num1=int(input("Enter the first number:"))
+num2=int(input("Entr the second number:"))
+print("sum+",num1+num2,"division+",num1/num2)
+print("Is num1 greater than num2?:",num1>num2)
+print("Are number1 and num2 equal?:",num1==num2)
+print("Logical AND:",num1>0 and num2>0)
+print("Logical OR:",num1>0 or num2>0)
